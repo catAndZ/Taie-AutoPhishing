@@ -24,6 +24,12 @@ Ditto是一个小型工具，它接受域名作为输入，并为[同形异义�
 
 地址：https://github.com/evilsocket/ditto
 
+### dnstwist
+
+同Ditto，并且持续维护。
+
+地址: https://github.com/elceef/dnstwist
+
 ### SiteCopy
 
 网站复制，也可称为网站备份。是通过工具将网页上的内容全部保存下来。当然不仅仅只是保存了一个html页面，而是将网页源码内所包含的css、js和静态文件等全部保存，以在本地也可以完整的浏览整个网站。
@@ -49,7 +55,7 @@ Ditto是一个小型工具，它接受域名作为输入，并为[同形异义�
 
 ### 邮服发信平台
 
-一键大家邮服可用发送钓鱼邮件
+一键搭建邮服可用发送钓鱼邮件
 
 地址：https://github.com/sumerzhang/PhishingInstall.git
 
